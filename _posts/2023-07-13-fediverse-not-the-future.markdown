@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Opinion] Why The Fediverse is Not The Future of The Internet."
+title:  "Why The Fediverse is Not The Future of The Internet."
 date:   2023-07-13 15:11:13 +0100
 categories: internet fediverse
 tags: opinion internet sustainability

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Opinion] Why Discord Shouldn't Be Your Main Messenger."
+title:  "Why Discord Shouldn't Be Your Main Messenger."
 date:   2023-07-21 15:11:13 +0100
 categories: privacy discord
 tags: opinion privacy
