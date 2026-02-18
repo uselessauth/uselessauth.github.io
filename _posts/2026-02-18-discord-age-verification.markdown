@@ -18,7 +18,7 @@ Discord will be rolling out age verification, [which may require users to scan t
 
 Speaking of the UK, it's arguably their Online Safety Act that kickstarted this whole "upload your ID" thing we see pop up everywhere.
 
-Now one may think "This may be a horrible precedent for privacy around the world, but at least it keeps our kids safe, right?".
+Now one might think, "This may be a horrible precedent for privacy around the world, but at least it keeps our kids safe, right?"
 
 ## An Aside: Kids' Safety
 
