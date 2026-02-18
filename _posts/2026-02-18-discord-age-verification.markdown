@@ -12,7 +12,7 @@ image:
 
 In 2023, [I wrote a piece about Discord](https://uselessauth.github.io/posts/discord-not-main-messenger/). I argued that Discord was not built to be a private messenger and not suitable for sharing private information. Back then, I still thought of Discord as tolerable for its intended use case: Non-sensitive communication about gaming. I think that as of March 2026, this will no longer be the case.
 
-# Discord Is Changing
+## Discord Is Changing
 
 Discord will be rolling out age verification, [which may require users to scan their face or upload an image of a government ID](https://support.discord.com/hc/en-us/articles/30326565624343-How-to-Complete-Age-Assurance-on-Discord). Although Discord assures that this will not be required for the vast majority of users and that all the information Discord receives is the age of the account holder ([s](https://discord.com/safety/how-discord-is-building-safer-experiences-for-teens)), [people are still upset](https://www.reddit.com/r/discordapp/comments/1r05vkj/discord_will_require_a_face_scan_or_id_for_full/) about these changes. It doesn't help that just a few months ago, they had a massive data leak related to their UK age verification process, which may have included ID photos of around 70,000 users ([s](https://www.bbc.com/news/articles/c8jmzd972leo)), which obviously doesn't make the "your data will be safe" claims as believable as Discord would like them to be.
 
@@ -20,7 +20,7 @@ Speaking of the UK, it's arguably their Online Safety Act that kickstarted this 
 
 Now one may think "This may be a horrible precedent for privacy around the world, but at least it keeps our kids safe, right?".
 
-# An Aside: Kids' Safety
+## An Aside: Kids' Safety
 
 Well, not really, no. Kids have been known to bypass age verification methods with ease, using methods like scanning the face of a video game character or uploading someone else's ID ([s](https://shuftipro.com/blog/age-verification-evasion-in-2025-how-minors-outsmart-weak-age-gates-and-how-to-fight-back/)). Deepfakes are also getting better and better, with live video deepfakes being a thing that exists now and can be [downloaded for free from GitHub](https://github.com/iperov/DeepFaceLive).
 
@@ -37,7 +37,7 @@ A 15-year-old kid that was gradually taught how to use a tool will be infinitely
 
 The solution to kids' safety online is the same as with every other tool: Education. Of course not just at home, but in schools, too.
 
-# Now, What About Discord?
+## Now, What About Discord?
 
 Judging by [this Reddit thread](https://www.reddit.com/r/discordapp/comments/1r05vkj/discord_will_require_a_face_scan_or_id_for_full/), Discord will most certainly lose some users to this change in policy, just like Reddit did back in 2023 when their API changes rolled out. Will this end Discord? Probably not. Will this end Discord for me? Absolutely.
 
@@ -45,7 +45,7 @@ I think that even if all of Discord's claims are true (which is as always debata
 
 When faced with the choice of sharing your ID with a platform or leaving that platform, I would advise you to choose the latter.
 
-# Goodbye, Discord
+## Goodbye, Discord
 
 The reason I made a new Discord account in January of 2025 was friends. They were on Discord and had no reason to switch, so I decided that spending quality time in voice channels with friends was worth the cost of having a Discord account. A few days ago, some friends approached me about Discord's upcoming changes and told me they were uncomfortable with the new policies and were wondering if I had a solution to the problem. I was very happy about this, because I felt that my relentless ranting about online privacy had stuck with them and I was very happy that everyone was ready to jump ship.
 
