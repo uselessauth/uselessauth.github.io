@@ -4,9 +4,11 @@ title:  "Why Discord Shouldn't Be Your Main Messenger."
 date:   2023-07-21 15:11:13 +0100
 categories: privacy discord
 tags: opinion privacy
+media_subpath: /assets/02-discord
+image:
+  path: discord-evil_preview.png
+  alt: evil discord logo edited by luna
 ---
-
-![Discord Logo Evil](/assets/02-discord/discord-evil.png)
 
 Discord is a wildly popular voice and text messaging platform with >150 million monthly users. Many people use it as their primary messenger. But should they?
 

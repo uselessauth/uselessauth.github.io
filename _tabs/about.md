@@ -5,6 +5,7 @@ order: 4
 ---
 
 After a brief endeavour in 2023, luna is relaunching its project UselessAuth in 2026.
-Sources are cited wherever possible; opinion pieces are clearly marked.
 
-Enjoy!
+UselessAuth will shift to more of a "luna's thoughts on…" style of writing with source-backed arguments.
+
+Thanks for reading :)

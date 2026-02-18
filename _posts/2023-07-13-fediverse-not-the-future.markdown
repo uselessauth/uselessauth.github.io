@@ -4,9 +4,11 @@ title:  "Why The Fediverse is Not The Future of The Internet."
 date:   2023-07-13 15:11:13 +0100
 categories: internet fediverse
 tags: opinion internet sustainability
+media_subpath: /assets/01-fediverse
+image:
+  path: fediverse_preview.png
+  alt: proposed fediverse logo by Eukombos
 ---
-
-![Fediverse Logo](/assets/01-fediverse/fediverse.png)
 
 Twitter and Reddit. Arguably the biggest sources of fresh and current information at all. You want to know what is going on _right now_? Go visit one of the two and you’ll be up to speed in a matter of minutes.
 
