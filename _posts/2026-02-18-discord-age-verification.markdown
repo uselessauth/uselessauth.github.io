@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Discord's Age Verification."
 date:   2026-02-18 20:30:00 +0100
-categories: privacy discord online-safety
+categories: privacy discord
 tags: opinion privacy
 media_subpath: /assets/03-discord-age-verification
 image:
