@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on /e/OS.
 date: 2026-03-17 17:40:19 +0100
 categories: privacy degoogle android
-tags:
+tags: opinion
 media_subpath: /assets/04-eos
 image:
   path: e-foundation-logo.png
