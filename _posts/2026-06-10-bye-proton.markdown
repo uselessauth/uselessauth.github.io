@@ -14,9 +14,9 @@ I've been a Proton customer for years. It was a good option for me and worked qu
 
 ## Why Proton In The First Place?
 
-When I decided it was time to get rid of all of my big-tech accounts, I spent a lot of time looking around. I was still quite young at the time and ProtonMail seemed like a good option. I tried it out for a short while and was pretty happy with it, quickly becoming a customer for one of the paid plans. Back then, it was just Mail, Calendar, and VPN. It was quite nice to also get a pretty solid VPN and have my E-Mail and Calendar work together. A short while later, Drive was released, another service I was happy to have. I didn't use it much due to my existing NAS, but it was a great option for file sharing and I found it preferable over services like WeTransfer. I've interacted with customer support a handful of times and every time they were quick, friendly, and helpful.
+When I decided it was time to get rid of all of my big-tech accounts, I spent a lot of time looking around. I was still quite young at the time and ProtonMail seemed like a good option. I tried it out for a short while and was pretty happy with it, quickly becoming a customer for one of the paid plans. Back then, it was just Mail, Calendar, and VPN. It was quite nice to also get a pretty solid VPN and have my email and calendar work together. A short while later, Drive was released, another service I was happy to have. I didn't use it much due to my existing NAS, but it was a great option for file sharing and I found it preferable over services like WeTransfer. I've interacted with customer support a handful of times and every time they were quick, friendly, and helpful.
 
-Proton was admittedly just comfortable. I had switched all my addresses to Proton, eventually Pass released and making aliases was easier than ever, a feature I really enjoy. Over the years, more and more stuff came up, that made me skeptical of Proton, though.
+Proton was admittedly just comfortable. I had switched all my addresses to Proton, eventually Pass released and making aliases was easier than ever, a feature I really enjoy. Over the years, more and more stuff came up that made me skeptical of Proton, though.
 
 ## Why Quit?
 
